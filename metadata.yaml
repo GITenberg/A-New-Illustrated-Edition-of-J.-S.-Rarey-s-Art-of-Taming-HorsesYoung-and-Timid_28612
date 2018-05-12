@@ -1,0 +1,32 @@
+_repo: A-New-Illustrated-Edition-of-J.-S.-Rarey-s-Art-of-Taming-HorsesYoung-and-Timid_28612
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rarey, J. S. (John Solomon)
+    alias: Rarey, John Solomon
+    birthdate: 1827
+    deathdate: 1866
+    gutenberg_agent_id: '33448'
+    url: http://www.gutenberg.org/2009/agents/33448
+    wikipedia: http://en.wikipedia.org/wiki/John_Solomon_Rarey
+description: ''
+gutenberg_issued: '2009-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28612'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horses -- Training'
+- !lcsh 'Horsemanship'
+- !lcsh 'Hunting'
+- !lcc 'SF'
+title: "A New Illustrated Edition of J. S. Rarey's Art of Taming Horses\r\nWith the\
+  \ Substance of the Lectures at the Round House, and Additional Chapters on Horsemanship\
+  \ and Hunting, for the Young and Timid"
+url: http://www.gutenberg.org/ebooks/28612
